@@ -1,0 +1,12 @@
+
+
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    background-color: rgb(27, 25, 25);
+    background: #522a46;
+}
